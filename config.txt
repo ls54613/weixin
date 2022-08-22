@@ -13,7 +13,7 @@
 # 和风天气apikey
 "weather_key": "f9ee6350a08c487f854e0c7020db98f4",
 # 所在地区
-"region": "深圳"
+"region": "深圳",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "婧宝", "birthday": "r2001-04-11"},
 # 生日2
